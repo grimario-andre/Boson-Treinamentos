@@ -1,0 +1,3 @@
+Estado modificado: Snapshot atual no qual o trabalho é feito no momemto. Arquivos no Diretório de Trabalho.
+Estado preparado: os arquivos modificados são marcados em sua versão atual, pronta para ser armazenada no banco de dados. Arquivos no Staging Area.
+Estado consolidado:Dados são salvos no Repositório(Banco de Dados) onde o histórico é armazenado. Este estado é compartilhado. Arquivos no Diretório do Git.
